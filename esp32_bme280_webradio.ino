@@ -22,8 +22,8 @@
 #include "Audio.h"
 
 // ---- Wi-Fi ----
-const char* WIFI_SSID     = "ВАША_МЕРЕЖА";
-const char* WIFI_PASSWORD = "ВАШ_ПАРОЛЬ";
+const char* WIFI_SSID     = "ASUS";
+const char* WIFI_PASSWORD = "1135432906";
 
 // ---- I2S піни (MAX98357A) ----
 #define I2S_BCLK 27
